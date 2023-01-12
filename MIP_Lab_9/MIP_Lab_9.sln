@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MIP_Lab_9", "MIP_Lab_9\MIP_Lab_9.pyproj", "{3DC05E78-5D18-48BB-B50E-9403520D6464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC05E78-5D18-48BB-B50E-9403520D6464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC05E78-5D18-48BB-B50E-9403520D6464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429A7F74-6CE1-4062-91C8-736F8EDF77A8}
+	EndGlobalSection
+EndGlobal
